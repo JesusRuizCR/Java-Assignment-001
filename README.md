@@ -6,7 +6,7 @@
 The line "// Write your program here" is a single line comment, and the Java compiler will ignore it.
 * Add your code below the comment that prints the string "Alan Turing" and run the program.
 
-The output of the program should be:
+The output 33of the program should be:
 ```
 Alan Turing
 ```
